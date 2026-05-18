@@ -1,6 +1,6 @@
-.png
-.jpg
-.bmp
-.gif
-.webm
-.jpge
+*.png
+*.jpg
+*.bmp
+*.gif
+*.webm
+*.jpge
