@@ -9,14 +9,21 @@
 
 <div class="row"> 
 <div>
-<a href="hubble.ico"> <img src="hubble.ico" alt="hubble telescope icon, stars, space" hubble.ico style="box-shadow: 5px 15px 25px 5px gray"> </a>
-<a href="found.ico"> <img src="found.ico" alt="found star icon" style="box-shadow: 5px 15px 25px 5px gray"> </a>
-<a href="spinner.ico"> <img src="spinner.ico" alt="golden spinner icon" style="box-shadow: 5px 15px 25px 5px gray"></a>
-<a href="hokusai.ico"> <img src="hokusai.ico" alt="colorful fractal what resembles to hokusai's Great Wave artwork, icon" style="box-shadow: 5px 15px 25px 5px gray" ></a>
-<a href="vortex.ico"> <img src="vortex.ico" alt="colorful vortex icon" style="box-shadow: 5px 15px 25px 5px gray" ></a>
-<a href="yoda.ico"> <img src="yoda.ico" alt="Master Yoda icon"  style="box-shadow: 5px 15px 25px 5px gray"></a>
-<a href="amethyst.ico"> <img src="amethyst.ico" alt= "Amethyst icon"  style="box-shadow: 5px 15px 25px 5px gray"></a>
-<a href="ghost.ico"> <img src="ghost.ico" alt= "Ghost icon"  style="box-shadow: 5px 15px 25px 5px gray"></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/hubble.ico"> <img src="hubble.ico" alt="hubble telescope icon, stars, space" hubble.ico style="box-shadow: 5px 15px 25px 5px gray"> </a>
+
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/found.ico"> <img src="found.ico" alt="found star icon" style="box-shadow: 5px 15px 25px 5px gray"> </a>
+
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/spinner.ico"> <img src="spinner.ico" alt="golden spinner icon" style="box-shadow: 5px 15px 25px 5px gray"></a>
+
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/hokusai.ico"> <img src="hokusai.ico" alt="colorful fractal what resembles to hokusai's Great Wave artwork, icon" style="box-shadow: 5px 15px 25px 5px gray" ></a>
+
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/vortex.ico"> <img src="vortex.ico" alt="colorful vortex icon" style="box-shadow: 5px 15px 25px 5px gray" ></a>
+
+<a href="![yoda.ico](https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/yoda.ico)"> <img src="yoda.ico" alt="Master Yoda icon"  style="box-shadow: 5px 15px 25px 5px gray"></a>
+
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/amethyst.ico"> <img src="amethyst.ico" alt= "Amethyst icon"  style="box-shadow: 5px 15px 25px 5px gray"></a>
+
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/ghost.ico"> <img src="ghost.ico" alt= "Ghost icon"  style="box-shadow: 5px 15px 25px 5px gray"></a>
 </div>
  
 
