@@ -18,28 +18,6 @@
 <a href="ghost.ico"> <img src="ghost.ico" alt= "Ghost icon"  style="box-shadow: 5px 15px 25px 5px gray"></a>
 </div>
  
-<style> 
-.row { 
-  display: flex; 
-  justify-content: space-between; /* or center, flex-start, etc. */ 
-  align-items: justify;            /* vertical alignment */ 
-  gap: 55px;                      /* space between images */ 
-
-
-} 
-.row img { 
-  max-width: 100%;                /* prevents overflow on small screens */ 
-  height: auto; 
-  width: auto;                     /* makes them roughly side-by-side */ 
-  object-fit: cover;              /* optional: preserve aspect crop */ 
-
-} 
-@media (max-width: 600px) { 
-  .row { flex-direction: column; } /* stack on small screens */ 
-  .row img { width: 100%; } 
-
-} 
-</style> 
 
 
 
