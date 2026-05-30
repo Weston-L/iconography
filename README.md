@@ -2,8 +2,9 @@
 <p><H1>### ---> iconography</H1></p>
 
 
-<H2><p style="text-align:center;">Icons, Runes and Sigils for computer spell work or running daemons with scripts. </H2>
-<H3><p style="text-align:center;">This whole computer science thing is pure witchcraft, if you ask me. The icons are 256px x 256px. Use them, if you want.</H3>
+<p><H2><p style="text-align:center;">Icons, Runes and Sigils for computer spell work or running daemons with scripts. </H2><p></p>
+<p><H3><p style="text-align:center;">This whole computer science thing is pure witchcraft, if you ask me. </p>
+ The icons are 256px x 256px. Use them, if you want.</H3>
 
 
 <div class="row"> 
