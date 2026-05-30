@@ -15,7 +15,7 @@
 <a href="vortex.ico"> <img src="vortex.ico" alt="colorful vortex icon" style="box-shadow: 5px 15px 25px 5px gray" ></a>
 <a href="yoda.ico"> <img src="yoda.ico" alt="Master Yoda icon"  style="box-shadow: 5px 15px 25px 5px gray"></a>
 <a href="amethyst.ico"> <img src="amethyst.ico" alt= "Amethyst icon"  style="box-shadow: 5px 15px 25px 5px gray"></a>
-
+<a href="ghost.ico"> <img src="ghost.ico" alt= "Ghost icon"  style="box-shadow: 5px 15px 25px 5px gray"></a>
 </div>
  
 <style> 
