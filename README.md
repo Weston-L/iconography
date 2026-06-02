@@ -21,6 +21,8 @@
 <a href="![yoda.ico](https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/yoda.ico)"> <img src="yoda.ico" alt="Master Yoda icon" ></a>
 <a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/amethyst.ico"> <img src="amethyst.ico" alt= "Amethyst icon" ></a>
 <a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/found.ico"> <img src="found.ico" alt="found star icon"> </a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/bitcoin-server.ico"> <img src="bitcoin-server.ico" alt="bitcoin-server icon"> </a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/smiling-bitcoin.ico"> <img src="smiling-bitcoin.ico" alt="smiling bitcoin icon"> </a>
 
 
 
