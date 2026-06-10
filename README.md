@@ -25,6 +25,9 @@
 <a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/amethyst.ico"> <img src="amethyst.ico" alt= "Amethyst icon" ></a>
 <a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/seedling.ico"> <img src="seedling.ico" alt= "seedling icon" ></a>
 <a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/bitcoin-currency-miner-free-png.ico"> <img src="bitcoin-currency-miner-free-png.ico" alt= "Bitcoin miner icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/train.ico"> <img src="train.ico" alt= "Train icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/btc_islands.ico"> <img src="btc_islands.ico" alt= "BTC islands icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/rocket_lunch.ico"> <img src="rocket_lunch.ico" alt= "Rocket lunch icon" ></a>
 
 
 
