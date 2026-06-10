@@ -12,22 +12,22 @@
 <div>
 <div class="icons"> 
 
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/vortex.ico"> <img src="vortex.ico" alt="colorful vortex icon" ></a>
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/ghost.ico"> <img src="ghost.ico" alt= "Ghost icon" ></a>
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/spinner.ico"> <img src="spinner.ico" alt="golden spinner icon"></a>
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/gollum_bitcoin.ico"> <img src="gollum_bitcoin.ico" alt= "gollum_bitcoin icon" ></a>
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/hokusai.ico"> <img src="hokusai.ico" alt="colorful fractal what resembles to hokusai's Great Wave artwork, icon" ></a>
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/hubble.ico"> <img src="hubble.ico" alt="hubble telescope icon, stars, space"> </a>
-<a href="![yoda.ico](https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/yoda.ico)"> <img src="yoda.ico" alt="Master Yoda icon" ></a>
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/bitcoin-server.ico"> <img src="bitcoin-server.ico" alt="bitcoin-server icon"> </a>
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/found.ico"> <img src="found.ico" alt="found star icon"> </a>
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/smiling-bitcoin.ico"> <img src="smiling-bitcoin.ico" alt="smiling bitcoin icon"> </a>
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/amethyst.ico"> <img src="amethyst.ico" alt= "Amethyst icon" ></a>
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/seedling.ico"> <img src="seedling.ico" alt= "seedling icon" ></a>
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/bitcoin-currency-miner-free-png.ico"> <img src="bitcoin-currency-miner-free-png.ico" alt= "Bitcoin miner icon" ></a>
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/train.ico"> <img src="train.ico" alt= "Train icon" ></a>
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/btc_islands.ico"> <img src="btc_islands.ico" alt= "BTC islands icon" ></a>
-<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/rocket_lunch.ico"> <img src="rocket_lunch.ico" alt= "Rocket lunch icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/vortex.ico"> <img src="vortex.ico" alt="colorful vortex icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/ghost.ico"> <img src="ghost.ico" alt= "Ghost icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/spinner.ico"> <img src="spinner.ico" alt="golden spinner icon"></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/gollum_bitcoin.ico"> <img src="gollum_bitcoin.ico" alt= "gollum_bitcoin icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/hokusai.ico"> <img src="hokusai.ico" alt="colorful fractal what resembles to hokusai's Great Wave artwork, icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/hubble.ico"> <img src="hubble.ico" alt="hubble telescope icon, stars, space"> </a>
+<a href="![yoda.ico](https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/yoda.ico)"> <img src="yoda.ico" alt="Master Yoda icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/bitcoin-server.ico"> <img src="bitcoin-server.ico" alt="bitcoin-server icon"> </a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/found.ico"> <img src="found.ico" alt="found star icon"> </a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/smiling-bitcoin.ico"> <img src="smiling-bitcoin.ico" alt="smiling bitcoin icon"> </a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/amethyst.ico"> <img src="amethyst.ico" alt= "Amethyst icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/seedling.ico"> <img src="seedling.ico" alt= "seedling icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/bitcoin-currency-miner-free-png.ico"> <img src="bitcoin-currency-miner-free-png.ico" alt= "Bitcoin miner icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/train.ico"> <img src="train.ico" alt= "Train icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/btc_islands.ico"> <img src="btc_islands.ico" alt= "BTC islands icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/rocket_lunch.ico"> <img src="rocket_lunch.ico" alt= "Rocket lunch icon" ></a>
 
 
 
