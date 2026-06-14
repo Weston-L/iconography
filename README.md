@@ -28,6 +28,8 @@
 <a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/train.ico"> <img src="./icons/train.ico" alt= "Train icon" ></a>
 <a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/btc_islands.ico"> <img src="./icons/btc_islands.ico" alt= "BTC islands icon" ></a>
 <a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/rocket_lunch.ico"> <img src="./icons/rocket_lunch.ico" alt= "Rocket lunch icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/copilot_smilie.ico"> <img src="./icons/copilot_smilie.ico" alt= "Smiling Copilot icon" ></a>
+<a href="https://raw.githubusercontent.com/Weston-L/iconography/refs/heads/main/icons/postgreSQL.ico"> <img src="./icons/postgreSQL.ico" alt= "PostgreSQL elephant icon" ></a>
 
 
 
